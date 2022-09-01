@@ -1,0 +1,23 @@
+{
+  "name": "ajs-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Privalov94/ajs-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Privalov94/ajs-02/issues"
+  },
+  "homepage": "https://github.com/Privalov94/ajs-02#readme",
+  "description": "",
+  "devDependencies": {
+    "ajs": "^1.0.0"
+  }
+}
